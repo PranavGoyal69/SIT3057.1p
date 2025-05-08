@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lost &amp; Found</string>
+    <string name="new_advertisement">NEW ADVERTISEMENT</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="name_hint">Name</string>
+    <string name="description_hint">Description</string>
+    <string name="date_hint">Date</string>
+    <string name="location_hint">Location</string>
+    <string name="save_button">SAVE</string>
+    <string name="items_title">Lost &amp; Found Items</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="item_saved">Item saved</string>
+    <string name="error_saving">Error saving item</string>
+</resources>
